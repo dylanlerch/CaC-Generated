@@ -8,3 +8,7 @@ variable "Trigger a fetch" {
 variable "New variables" {
     value "What about another one?" {}
 }
+
+variable "Write" {
+    value {}
+}
