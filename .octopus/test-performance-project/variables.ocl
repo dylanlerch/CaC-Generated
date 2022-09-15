@@ -4,3 +4,7 @@ variable "Trigger a fetch" {
         machine = ["0025a114-d990-4815-a45f-202808e1fbb0"]
     }
 }
+
+variable "New variables" {
+    value "What about another one?" {}
+}
