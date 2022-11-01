@@ -1,5 +1,5 @@
 connectivity_policy {}
 
 versioning_strategy {
-    template = "7faeeaf7"
+    template = "4ab275ab"
 }
